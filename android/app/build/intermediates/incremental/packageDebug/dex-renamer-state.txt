@@ -1,0 +1,4 @@
+#Wed Jul 26 21:29:02 CDT 2017
+base.0=/Users/Impulsive/WebSites/flink/natives/vivaa/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/Impulsive/WebSites/flink/natives/vivaa/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

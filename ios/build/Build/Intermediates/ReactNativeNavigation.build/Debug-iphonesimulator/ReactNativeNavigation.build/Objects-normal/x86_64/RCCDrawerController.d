@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerController.m \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerController.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/node_modules/react-native-navigation/ios/RCCDrawerController/MMDrawerController/MMDrawerController.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerProtocol.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/node_modules/react-native-navigation/ios/RCCViewController.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/node_modules/react-native-navigation/ios/RCCDrawerController/MMDrawerController/MMExampleDrawerVisualStateManager.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/node_modules/react-native-navigation/ios/RCCDrawerController/MMDrawerController/MMDrawerVisualState.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerHelper.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/node_modules/react-native-navigation/ios/RCCManagerModule.h \
+  /Users/Impulsive/WebSites/flink/natives/vivaa/node_modules/react-native-navigation/ios/UIViewController+Rotation.h
